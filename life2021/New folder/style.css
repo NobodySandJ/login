@@ -1,0 +1,46 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(ml.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.connavbar {
+    background-color: rgba(0, 0, 0, 0.986);
+}
+
+.libar {
+    display: flex;
+    width: 80%;
+    justify-content: center;
+}
+
+.ulnavbar {
+    font-size: 200%;
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 90%;
+    font-size: xx-large;
+}
+.ukur {
+    list-style-type: none;
+    margin: 15%;
+    margin-right: 5%;
+    padding: 2%;
+    background-color: #928e8e;
+    font-size: 300%;
+}
